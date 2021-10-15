@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Abstract\" />
-    <Folder Include="DTOs\" />
+    <Folder Include="Abstract\NewFolder\" />
+    <Folder Include="DTOs\NewFolder\" />
   </ItemGroup>
 
   <ItemGroup>
